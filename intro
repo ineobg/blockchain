@@ -1,3 +1,47 @@
-Bitcoin Whitepaper
+Bitcoin (BTC) Whitepaper
 https://bitcoin.org/bitcoin.pdf
+
+BTC Academic Pedigree
+https://queue.acm.org/detail.cfm?id=3136559
+
+BTC Technology
+https://blockgeeks.com/guides/what-is-blockchain-technology/
+https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world
+
+Unspent Transaction Output, UTXO
+https://www.smithandcrown.com/definition/unspent-transaction-outputs-utxo/
+
+How a BTC Transaction (Tx) works
+https://www.ccn.com/bitcoin-transaction-really-works/
+
+How does the Blockchain work
+https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093
+https://medium.com/@micheledaliessi/how-does-the-blockchain-work-98c8cd01d2ae
+https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/
+https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/
+https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains/
+
+How do BTC noders verify Tx
+https://smartereum.com/8970/how-do-bitcoin-nodes-verify-transactions/
+
+BLOCKCHAIN EXPLORER
+https://www.blockchain.com/
+https://blockexplorer.com/
+https://etherscan.io/
+
+What is Ethereum?
+http://ethdocs.org/en/latest/introduction/what-is-ethereum.html
+Smart Contracts: The Blockchain Technology
+https://blockgeeks.com/guides/smart-contracts/
+Introduction to Smart Contracts
+http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
+Etherum Whitepaper
+https://ethereum.org/en/whitepaper/
+Account Management
+http://ethdocs.org/en/latest/account-management.html
+https://geth.ethereum.org/docs/dapp/native-accounts
+
+
+
+
 
